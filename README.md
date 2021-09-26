@@ -22,7 +22,6 @@ O visitante poderá navegar entre as seguintes páginas, que são compostas cada
   
 - **About us**
 
-  É composta por:
   - Um header com menu e abaixo o titulo da página; 
   - Uma descrição sobre a universidade, com um botão e uma foto dos professores;
   - Uma pequena descrição sobre nós;
@@ -54,6 +53,6 @@ O site utiliza recursos em css e javascript, para adaptar o menu em telas menore
 
 **Tutorial criado por:**
 
-Easy Tutorials.
+Easy Tutorials (https://www.youtube.com/c/EasyTutorialsVideo)
   
 
