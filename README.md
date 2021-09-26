@@ -46,7 +46,7 @@ O visitante poderá navegar entre as seguintes páginas, que são compostas cada
     - Um header com menu e abaixo o titulo da página;
     - Um mapa do google maps exibindo a localização da universidade;
     - Dados para contato como endereço, fone e e-mail;
-    - Um formulário de contato;
+    - Um formulário de contato que é processado por um script em PHP;
     - E o footer com uma pequena descrição sobre nós, redes sociais e informações de copyright;
   
 O site utiliza recursos em css e javascript, para adaptar o menu em telas menores.
@@ -56,6 +56,7 @@ O site utiliza recursos em css e javascript, para adaptar o menu em telas menore
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 **Tutorial criado por**
