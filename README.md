@@ -1,6 +1,6 @@
 # University
 
-** Desenvolvimento de um site com uma temática de universidade**
+**Desenvolvimento de um site com uma temática de universidade**
 
 **Objetivo**
 
