@@ -44,16 +44,16 @@ O visitante poderá navegar entre as seguintes páginas, que são compostas cada
   
  - **Contact us**
 
-  - Um header com menu e abaixo o titulo da página;
-  - Um mapa do google maps exibindo a localização da universidade;
-  - Dados para contato como endereço, fone e e-mail;
-  - Um formulário de contato;
-  - E o footer com uma pequena descrição sobre nós, redes sociais e informações de copyright;
+    - Um header com menu e abaixo o titulo da página;
+    - Um mapa do google maps exibindo a localização da universidade;
+    - Dados para contato como endereço, fone e e-mail;
+    - Um formulário de contato;
+    - E o footer com uma pequena descrição sobre nós, redes sociais e informações de copyright;
   
 O site utiliza recursos em css e javascript, para adaptar o menu em telas menores.
 
 **Tutorial criado por:**
 
-Canal Easy Tutorials.
+Easy Tutorials.
   
 
